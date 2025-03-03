@@ -1,5 +1,7 @@
 # Devtopia
 
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/cf/88/5b/cf885b65-d9d6-a2cc-0bb7-37b83bc1384e/mza_7921343945018474712.jpg/250x250bb.jpg">
+
 A generic development environment for remote development.
 
 ## Developer Guide
